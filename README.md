@@ -11,6 +11,5 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java">
 </p>
 
-<h2>What I'm Working On<h2>
 <img src="./images/current-projects.png">
 <p>I've recently taken on <a href="https://www.theodinproject.com/">The Odin Project</a> and it's very rewarding. You not only gain developing experience, but you also learn web development concepts on a deeper level. For every new project, I try and incorporate new knowledge and new methods of doing things so that my skills are always growing.</p>
