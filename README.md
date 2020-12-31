@@ -1,3 +1,5 @@
+<!--for programming badges: https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md-->
+
 <!--able to use the align property for <p> and not <div>-->
 <p align="center">
   <img src="./images/banner-800x200.png">
