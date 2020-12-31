@@ -2,7 +2,7 @@
 <p align="center">
   <img src="./images/banner-800x200.png">
 </p>
-<h1 align="center">Your average student that likes to design and develop.</p>
+<h1 align="center">Your average student that likes to design and develop.</h1>
 <!--using <p> provides space between children, and using <div> doesn't-->
 <p style="float:left" align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
