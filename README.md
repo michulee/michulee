@@ -11,7 +11,16 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
 
-<img src="./images/current-projects2.png">
+<!--
+<p align="center">
+  <img src="./images/current-projects2.png">
+</p>
+<p>I'm currently redesigning a website for a college club called <a href="https://www.calpolyswift.org/index.html">Students With an Interest in the Future of Technology (SWIFT)</a>.</p>
+-->
+
+<!--
 <p>I've recently taken on <a href="https://www.theodinproject.com/">The Odin Project</a> and it's very rewarding. You not only gain developing experience, but you also learn web development concepts on a deeper level. For every new project, I try and incorporate new knowledge and new methods of doing things so that my skills are always growing.</p>
+-->
