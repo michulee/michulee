@@ -7,11 +7,14 @@
 <h1 align="center">Web Developer making the Internet a more functional & aesthetic place.</h1>
 <!--using <p> provides space between children, and using <div> doesn't-->
 <p style="float:left" align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=orange">
+  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=blue">
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=yellow">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java">
+  <img src="https://img.shields.io/badge/Styled Components-20232A?style=for-the-badge&logo=styled-components">
+  <img src="https://img.shields.io/badge/SCSS-20232A?style=for-the-badge&logo=sass&logoColor=E22E5D">
+  <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=red">
+
 <!--   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> -->
 <!--   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> -->
 <!--   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"> -->
