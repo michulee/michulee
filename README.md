@@ -1,4 +1,4 @@
-<!--for programming badges: https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md-->
+<!-- Shields Icons Documentation: https://shields.io/ -->
 
 <!--able to use the align property for <p> and not <div>-->
 <p align="center">
@@ -7,6 +7,7 @@
 <h1 align="center">Web Developer making the Internet a more functional & aesthetic place.</h1>
 <!--using <p> provides space between children, and using <div> doesn't-->
 <p style="float:left" align="center">
+<!--  e.g. badge/LABEL-COLOR?style=STYLETYPE&logo=ICON&logoColor=COLOR -->
   <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=orange">
   <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=blue">
   <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=yellow">
