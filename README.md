@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Styled Components-20232A?style=for-the-badge&logo=styled-components">
   <img src="https://img.shields.io/badge/SCSS-20232A?style=for-the-badge&logo=sass&logoColor=E22E5D">
-  <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=red">
+<!--   <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=red"> -->
 
 <!--   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> -->
 <!--   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> -->
